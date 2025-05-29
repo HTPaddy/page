@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Mega Altaria in Mega Raids",
+    "start": "2025-05-29T18:00:00Z",
+    "end": "2025-06-02T22:00:00Z",
+    "canBeShiny": true,
+    "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_334_00.png",
+    "link": "https://www.leekduck.com/events/mega-altaria/",
+    "extraDetails": ["Mega Altaria ✨ fangbar"]
+  },
+  {
+    "title": "Spotlight Hour: Mantine",
+    "start": "2025-05-30T18:00:00Z",
+    "end": "2025-05-30T19:00:00Z",
+    "canBeShiny": true,
+    "link": "https://www.leekduck.com/events/spotlight-hour-mantine/",
+    "extraData": {
+      "spotlight": {
+        "name": "Mantine",
+        "canBeShiny": true,
+        "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_226_00.png",
+        "bonus": "2× Transfer Candy"
+      }
+    }
+  },
+  {
+    "title": "Breakthrough Research: Klink",
+    "start": "2025-05-01T00:00:00Z",
+    "end": "2025-06-01T23:59:00Z",
+    "canBeShiny": true,
+    "link": "https://www.leekduck.com/events/research-breakthrough-klink/",
+    "extraData": {
+      "breakthrough": {
+        "name": "Klink",
+        "canBeShiny": true,
+        "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+      }
+    }
+  },
+  {
+    "title": "Community Day: Deino",
+    "start": "2025-05-29T11:00:00Z",
+    "end": "2025-06-01T17:00:00Z",
+    "canBeShiny": true,
+    "link": "https://www.leekduck.com/events/communityday-deino/",
+    "extraData": {
+      "communityday": {
+        "spawns": [
+          {
+            "name": "Deino",
+            "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+          }
+        ],
+        "bonuses": [
+          {
+            "text": "Increased Spawns",
+            "image": "https://www.leekduck.com/assets/img/events/bonuses/wildgrass.png"
+          },
+          {
+            "text": "1/4 Egg Hatch Distance",
+            "image": "https://www.leekduck.com/assets/img/events/bonuses/eggdistance.png"
+          }
+        ],
+        "bonusDisclaimers": [
+          "* Boni gelten nur während der Eventzeit.",
+          "* Einige Effekte können lokal variieren."
+        ],
+        "shinies": [
+          {
+            "name": "Deino",
+            "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png"
+          },
+          {
+            "name": "Zweilous",
+            "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_634_00_shiny.png"
+          }
+        ],
+        "specialresearch": [
+          {
+            "name": "Field Notes: Deino (1/4)",
+            "step": 1,
+            "tasks": [
+              {
+                "text": "Earn 3 hearts with your buddy",
+                "reward": {
+                  "text": "Poké Ball ×15",
+                  "image": "https://www.leekduck.com/assets/img/items/Pok%C3%A9%20Ball.png"
+                }
+              },
+              {
+                "text": "Catch 3 Deino",
+                "reward": {
+                  "text": "Hyper Potion ×3",
+                  "image": "https://www.leekduck.com/assets/img/items/Hyper%20Potion.png"
+                }
+              }
+            ],
+            "rewards": [
+              {
+                "text": "×2000 Stardust",
+                "image": "https://www.leekduck.com/assets/img/items/Stardust.png"
+              },
+              {
+                "text": "Deino",
+                "image": "https://www.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_633_00.png"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
